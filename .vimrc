@@ -1,3 +1,5 @@
+"my vimrc https://github.com/bignewdev/vimz.git
+"goto ~; git clone https://github.com/bignewdev/vimz.git
 "clone me first from github
 "git clone https://github.com/gmarik/vundle.git bundle/vundle
 "ln -s .vim to thix vimz, .vimrc to this vimz/.vimrc
