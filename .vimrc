@@ -1,7 +1,9 @@
-"git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+"clone me first from github
+"git clone https://github.com/gmarik/vundle.git bundle/vundle
+"ln -s .vim to thix vimz, .vimrc to this vimz/.vimrc
 set nocompatible
 filetype off
-set rtp+=C:/tmp/!VimNewPluginsSndbx/main/vimfiles/bundle/vundle/
+set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
 Bundle 'gmarik/vundle'
